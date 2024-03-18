@@ -1,0 +1,7 @@
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\Book\bin\Debug\Book.exe.config
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\Book\bin\Debug\Book.exe
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\Book\bin\Debug\Book.pdb
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\Book\obj\Debug\Book.csproj.AssemblyReference.cache
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\Book\obj\Debug\Book.csproj.CoreCompileInputs.cache
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\Book\obj\Debug\Book.exe
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\Book\obj\Debug\Book.pdb

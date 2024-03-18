@@ -1,0 +1,7 @@
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\PaymentCard\bin\Debug\PaymentCard.exe.config
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\PaymentCard\bin\Debug\PaymentCard.exe
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\PaymentCard\bin\Debug\PaymentCard.pdb
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\PaymentCard\obj\Debug\PaymentCard.csproj.AssemblyReference.cache
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\PaymentCard\obj\Debug\PaymentCard.csproj.CoreCompileInputs.cache
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\PaymentCard\obj\Debug\PaymentCard.exe
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\PaymentCard\obj\Debug\PaymentCard.pdb
