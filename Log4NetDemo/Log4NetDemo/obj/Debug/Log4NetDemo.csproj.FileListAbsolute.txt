@@ -1,0 +1,23 @@
+C:\Users\lyubomis.VANIERCOLLEGE\source\repos\Log4NetDemo\Log4NetDemo\bin\Debug\log4net.config
+C:\Users\lyubomis.VANIERCOLLEGE\source\repos\Log4NetDemo\Log4NetDemo\bin\Debug\Log4NetDemo.exe.config
+C:\Users\lyubomis.VANIERCOLLEGE\source\repos\Log4NetDemo\Log4NetDemo\bin\Debug\Log4NetDemo.exe
+C:\Users\lyubomis.VANIERCOLLEGE\source\repos\Log4NetDemo\Log4NetDemo\bin\Debug\Log4NetDemo.pdb
+C:\Users\lyubomis.VANIERCOLLEGE\source\repos\Log4NetDemo\Log4NetDemo\bin\Debug\log4net.dll
+C:\Users\lyubomis.VANIERCOLLEGE\source\repos\Log4NetDemo\Log4NetDemo\bin\Debug\log4net.xml
+C:\Users\lyubomis.VANIERCOLLEGE\source\repos\Log4NetDemo\Log4NetDemo\obj\Debug\Log4NetDemo.csproj.AssemblyReference.cache
+C:\Users\lyubomis.VANIERCOLLEGE\source\repos\Log4NetDemo\Log4NetDemo\obj\Debug\Log4NetDemo.csproj.CoreCompileInputs.cache
+C:\Users\lyubomis.VANIERCOLLEGE\source\repos\Log4NetDemo\Log4NetDemo\obj\Debug\Log4NetDemo.csproj.CopyComplete
+C:\Users\lyubomis.VANIERCOLLEGE\source\repos\Log4NetDemo\Log4NetDemo\obj\Debug\Log4NetDemo.exe
+C:\Users\lyubomis.VANIERCOLLEGE\source\repos\Log4NetDemo\Log4NetDemo\obj\Debug\Log4NetDemo.pdb
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\Log4NetDemo\Log4NetDemo\bin\Debug\Properties\AssemblyInfo.cs
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\Log4NetDemo\Log4NetDemo\bin\Debug\log4net.config
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\Log4NetDemo\Log4NetDemo\bin\Debug\Log4NetDemo.exe.config
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\Log4NetDemo\Log4NetDemo\bin\Debug\Log4NetDemo.exe
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\Log4NetDemo\Log4NetDemo\bin\Debug\Log4NetDemo.pdb
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\Log4NetDemo\Log4NetDemo\bin\Debug\log4net.dll
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\Log4NetDemo\Log4NetDemo\bin\Debug\log4net.xml
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\Log4NetDemo\Log4NetDemo\obj\Debug\Log4NetDemo.csproj.AssemblyReference.cache
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\Log4NetDemo\Log4NetDemo\obj\Debug\Log4NetDemo.csproj.CoreCompileInputs.cache
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\Log4NetDemo\Log4NetDemo\obj\Debug\Log4NetDemo.csproj.CopyComplete
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\Log4NetDemo\Log4NetDemo\obj\Debug\Log4NetDemo.exe
+C:\full stack developer\Appication dev2\Exercises\App-Dev2-Exercises\Log4NetDemo\Log4NetDemo\obj\Debug\Log4NetDemo.pdb
